@@ -10,6 +10,7 @@
 		<module>cache</module>
 		<module>facade</module>
 		<module>decorator</module>
+		<module>chain</module>
 	</modules>
 
 	<dependencyManagement>
