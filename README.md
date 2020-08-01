@@ -11,6 +11,7 @@ here i will be writing sample codes for the design patterns  that i came across 
 
 ## Behavioural Design Patterns
   Design  pattern specifies how classes are combined together to get different behaviours.
+  * [Chain of responsibility](https://github.com/rohithkodiyath/Design-Patterns/tree/master/chain)
   
 ## Others
   * [Cache](https://github.com/rohithkodiyath/Design-Patterns/tree/master/cache)
