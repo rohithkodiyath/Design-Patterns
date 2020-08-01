@@ -12,4 +12,4 @@ here i will be writing sample codes for the design patterns  that i came across 
   Design  pattern specifies how classes are combined together to get different behaviours.
   
 ## Others
-  * [cache](https://github.com/rohithkodiyath/Design-Patterns/tree/master/cache)
+  * [Cache](https://github.com/rohithkodiyath/Design-Patterns/tree/master/cache)
