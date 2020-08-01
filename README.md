@@ -6,10 +6,10 @@ here i will be writing sample codes for the design patterns  that i came across 
   
 ## Creational Design Patterns
   Design pattern specifies how objects are created .
-  * Facade
+  * [Facade](https://github.com/rohithkodiyath/Design-Patterns/tree/master/facade)
 
 ## Behavioural Design Patterns
   Design  pattern specifies how classes are combined together to get different behaviours.
   
 ## Others
-  * cache
+  * [cache](https://github.com/rohithkodiyath/Design-Patterns/tree/master/cache)
