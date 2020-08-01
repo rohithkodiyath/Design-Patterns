@@ -9,6 +9,7 @@
 	<modules>
 		<module>cache</module>
 		<module>facade</module>
+		<module>decorator</module>
 	</modules>
 
 	<dependencyManagement>
