@@ -8,6 +8,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>cache</module>
+		<module>facade</module>
 	</modules>
 
 	<dependencyManagement>
