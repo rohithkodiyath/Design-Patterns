@@ -11,6 +11,8 @@
 		<module>facade</module>
 		<module>decorator</module>
 		<module>chain</module>
+		<module>Visitor</module>
+		<module>visitor</module>
 	</modules>
 
 	<dependencyManagement>
