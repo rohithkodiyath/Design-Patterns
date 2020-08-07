@@ -13,6 +13,7 @@
 		<module>chain</module>
 		<module>Visitor</module>
 		<module>visitor</module>
+		<module>template</module>
 	</modules>
 
 	<dependencyManagement>
