@@ -14,6 +14,7 @@
 		<module>Visitor</module>
 		<module>visitor</module>
 		<module>template</module>
+		<module>command</module>
 	</modules>
 
 	<dependencyManagement>
