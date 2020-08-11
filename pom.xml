@@ -18,6 +18,8 @@
 		<module>AsynchronousInvocation</module>
 		<module>CallbackPattern</module>
 		<module>Converter</module>
+		<module>Step Builder</module>
+		<module>Step-Builder</module>
 	</modules>
 
 	<dependencyManagement>
